@@ -1,0 +1,9 @@
+#Modules
+node_modules
+./mongo/*
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen

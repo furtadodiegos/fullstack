@@ -1,0 +1,14 @@
+{
+  "test": {
+    "PORT": 3001,
+    "JWT_SECRET": "mysecret",
+    "PWD_SECRET": "dumbsecret",
+    "MONGODB_URI": "mongodb://localhost:27017/courses_test"
+  },
+  "development": {
+    "PORT": 3001,
+    "JWT_SECRET": "mysecret",
+    "PWD_SECRET": "dumbsecret",
+    "MONGODB_URI": "mongodb://localhost:27017/courses"
+  }
+}

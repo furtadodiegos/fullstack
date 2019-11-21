@@ -1,0 +1,10 @@
+{
+  "name": "users",
+  "script": "./bin/www.js",
+  "instances": "2",
+  "watch": true,
+  "exec_mode": "cluster",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
