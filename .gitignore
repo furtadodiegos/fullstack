@@ -1,7 +1,7 @@
 #Modules
 node_modules
-./mongo/*
 
+mongo/*
 # IntelliJ project files
 .idea
 *.iml
